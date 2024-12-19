@@ -4,7 +4,7 @@ import { useAppDispatch } from "@/redux/hooks";
 import { Dispatch, SetStateAction } from "react";
 import { CiEdit } from "react-icons/ci";
 import { RiDeleteBin5Line } from "react-icons/ri";
-
+// hjagdhas
 interface PropsType {
     srNo: number;
     setOpenPopup: Dispatch<SetStateAction<boolean>>;
